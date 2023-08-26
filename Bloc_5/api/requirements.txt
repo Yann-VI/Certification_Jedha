@@ -1,0 +1,9 @@
+uvicorn[standard]
+gunicorn
+boto3
+pandas
+numpy
+pydantic
+fastapi
+joblib
+scikit-learn == 1.2.2
